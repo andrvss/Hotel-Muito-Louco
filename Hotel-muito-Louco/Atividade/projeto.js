@@ -1,4 +1,5 @@
-var hospede_lista = [];
+// 
+	hospede_lista = [];
 		var i = 0;
         var nomehotel = prompt("Olá! Por favor, qual o nome do hotel?")
         alert("O nome do hotel é " + nomehotel);
@@ -377,7 +378,6 @@ var hospede_lista = [];
 
 			}
 
-
 		}
 
 		function reserva_restaurante(){
@@ -467,7 +467,4 @@ var hospede_lista = [];
 
 
 
-		}
-			
-
-
+		} //
