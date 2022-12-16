@@ -3,8 +3,7 @@
 
 <h1> Projeto de um Hotel muito Louco! 🏨 </h1>
 
-<h3>💡 - Projeto introdutório para fixar conceitos de HTML e CSS, estruturado em ambas as linguagens, sob o pretexto de atividade respondendo questões um pouco mais sobre mim como pessoa.</h3>
+<h3>💡 - Projeto de fixação de JavaScript e Lógica de Programação, baseada em criar um sistema de hotel ficticío completo.</h3>
 
 ##
 
-🔍 - 1. 
